@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## ![Edgecastle logo](https://avatars1.githubusercontent.com/u/5903086?s=24&v=4) Relay "Edge" 
 
-You can use the [editor on GitHub](https://github.com/edgecastle/relay-edge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Relay" by [Edgecastle](https://edgecastle.com) is a platform that lets you to securely interact with your commodity IoT devices, such as Raspberry Pis or Arduino boards with network capabilities, from the cloud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Relay" has two parts - the management web app that lives in the cloud at [https://edgecastle.com/relay](https://edgecastle.com/relay) and the "Edge" client component that lives on the edge device.
 
-### Markdown
+### Relay Edge
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Relay platform uses open, well-documented standards to maximise reach and ease of integration. 
 
-```markdown
-Syntax highlighted code block
+These pages explain step-by-step how to create a Relay client from scratch, but you can also use the sample client.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edgecastle/relay-edge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're interested in careers at Edgecastle, investor information or anything else, please drop us a line at [mailbag@edgecastle.com](mailto:mailbag@edgecastle.com?subject=I+saw+you+on+github)
